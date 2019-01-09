@@ -7,4 +7,4 @@ DCO Site : https://deepcarbon.net/dco-webinar-wednesdays-summer-data-science-ser
 
 ### Open the '.ipynb' file using Jupyter.
 
-### To see the notebook as a slide deck, use the [RISE package](https://github.com/damianavila/RISE).
+### To view the notebook as a slide deck, use the [RISE package](https://github.com/damianavila/RISE).
