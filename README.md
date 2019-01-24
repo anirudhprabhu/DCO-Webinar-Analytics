@@ -11,3 +11,7 @@ DCO Site : https://deepcarbon.net/dco-webinar-wednesdays-summer-data-science-ser
 
 ### Copper Dataset Compiled by [Shaunna Morrison](https://github.com/Shaunnamm) (smorrison@carnegiescience.edu)
 ### Uranium Dataset : This database was compiled and constructed through the efforts of Samuel N. Perry(sperry5@nd.edu), Joy E. Thompson and Peter C. Burns, with financial support provided by the Department of Energy Office of Basic Science grant DE-FG02-07ER15880.
+
+If you use the datasets in this repository please credit as mentioned above. 
+
+Code by Anirudh Prabhu. Credit this repository, for using the code. 
